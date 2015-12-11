@@ -1,0 +1,1 @@
+mvn -s settings.xml eclipse:clean eclipse:eclipse
