@@ -37,8 +37,7 @@ public class RatingReviewService
     checkApiVersion(reviewResponse, pApiVersion);
 
     if (pStats != null)
-    {
-    	
+    {    	
       switch (pStats)
       {
       case "Reviews":
